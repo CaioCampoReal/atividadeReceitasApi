@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Banana com Aveia",
+      "ingredientes": [
+        "3 bananas maduras amassadas",
+        "1 xícara de farinha de aveia",
+        "1/2 xícara de açúcar mascavo",
+        "1/4 xícara de óleo vegetal",
+        "2 ovos",
+        "1 colher de chá de extrato de baunilha",
+        "1 colher de chá de bicarbonato de sódio",
+        "1/2 colher de chá de sal"
+      ],
+      "modoPreparo": [
+        "Pré-aqueça o forno a 180 graus Celsius.",
+        "Unte e enfarinhe uma forma de bolo redonda.",
+        "Em uma tigela grande, misture as bananas amassadas, a farinha de aveia, o açúcar mascavo, o óleo vegetal, os ovos e o extrato de baunilha.",
+        "Em outra tigela, misture o bicarbonato de sódio e o sal.",
+        "Adicione os ingredientes secos aos ingredientes úmidos e misture até que estejam bem combinados.",
+        "Despeje a massa na forma preparada e leve ao forno por 30-35 minutos, ou até que um palito inserido no centro saia limpo.",
+        "Deixe esfriar completamente antes de servir."
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Penne com Molho Pesto",
+      "ingredientes": [
+        "500g de penne",
+        "1 xícara de pesto",
+        "1/2 xícara de tomates cereja cortados ao meio",
+        "1/4 xícara de queijo parmesão ralado",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": [
+        "Cozinhe o penne de acordo com as instruções da embalagem.",
+        "Enquanto o penne cozinha, aqueça o pesto em uma panela grande em fogo médio.",
+        "Adicione os tomates cereja ao pesto e cozinhe por 2-3 minutos, ou até que estejam macios.",
+        "Escorra o penne e adicione-o à panela com o pesto.",
+        "Misture bem para que o penne fique completamente coberto com o pesto.",
+        "Sirva imediatamente com queijo parmesão ralado e sal e pimenta a gosto."
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Frango Assado com Legumes",
+      "ingredientes": [
+        "1 frango inteiro (cerca de 1,5 kg)",
+        "1 colher de sopa de azeite de oliva",
+        "1 colher de chá de sal",
+        "1/2 colher de chá de pimenta preta",
+        "1/2 xícara de cenoura picada",
+        "1/2 xícara de batata picada",
+        "1/2 xícara de cebola picada",
+        "1/2 xícara de brócolis picado"
+      ],
+      "modoPreparo": [
+        "Pré-aqueça o forno a 200 graus Celsius.",
+        "Aqueça o azeite de oliva em uma frigideira grande em fogo médio.",
+        "Tempere o frango com sal e pimenta preta.",
+        "Doure o frango na frigideira por todos os lados.",
+        "Transfira o frango para uma assadeira.",
+        "Adicione os legumes picados à assadeira.",
+        "Asse no forno por 45-50 minutos, ou até que o frango esteja cozido e os legumes estejam macios."
+      ]
+    }
+  ]
+  
